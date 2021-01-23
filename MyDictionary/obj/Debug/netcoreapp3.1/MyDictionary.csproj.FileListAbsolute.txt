@@ -1,0 +1,13 @@
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+D:\Projeler\Yazılım\Csharp Project\Project\engin-demirog-project\yazilim-gelistirme-kampi\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
